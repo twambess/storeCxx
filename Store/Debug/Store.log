@@ -1,0 +1,9 @@
+﻿  StoreDlg.cpp
+C:\Users\Hirazant\Documents\Store\Store\Store\StoreDlg.cpp(257): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Hirazant\Documents\Store\Store\Store\StoreDlg.cpp(267): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Hirazant\Documents\Store\Store\Store\StoreDlg.cpp(423): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Hirazant\Documents\Store\Store\Store\StoreDlg.cpp(443): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Hirazant\Documents\Store\Store\Store\StoreDlg.cpp(491): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Hirazant\Documents\Store\Store\Store\StoreDlg.cpp(535): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Hirazant\Documents\Store\Store\Store\StoreDlg.cpp(563): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Store.vcxproj -> C:\Users\Hirazant\Documents\Store\Store\Debug\Store.exe
